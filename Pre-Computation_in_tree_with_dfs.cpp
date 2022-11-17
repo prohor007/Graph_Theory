@@ -52,7 +52,7 @@ void solve(){
       g[v2].pb(v1);
    }
 
-   dfs(2);
+   dfs(1);
 
    int q;
    cin>>q;
